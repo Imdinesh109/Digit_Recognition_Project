@@ -1,0 +1,8 @@
+__pycache__/
+data/
+raw/
+processed/
+venv/
+.env
+*.log
+models/*.pkl
